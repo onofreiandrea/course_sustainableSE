@@ -88,7 +88,7 @@ Running Minecraft with shaders significantly increases energy consumption and po
 While shaders have little effect on performance, they drastically increase resource consumption. The extremely low t-test p-values across all metrics confirm that these differences are statistically significant, making shaders costly in terms of power and energy efficiency.
 | Shader Runs | No Shader Runs |
 |------------|--------------|
-| (/img/p1_measuring_software/gX_template/gpu 1.2.png) |(/img/p1_measuring_software/gX_template/gpu 2.1.png)
+| ![Shader Runs](/img/p1_measuring_software/gX_template/gpu%201.2.png) |(/img/p1_measuring_software/gX_template/gpu 2.1.png)
 ## Discussion
 The results from the experiment suggest a noticeable trade-off between graphics quality and energy consumption for Minecraft. Although we observed that adding shader packs only increased the execution time by less than 1%, the additional power required to run the game is much more substantial. In particular, running Minecraft with shaders draws nearly 50% more power and the statistical significance derived from the t-test aligns with this observation. This was to be expected since introducing shaders adds additional overhead/load as the CPU manages the compilation and transfer of shader-related data between the GPU and the rest of the computer at runtime [^shaderanalysis]. 
 

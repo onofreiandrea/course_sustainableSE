@@ -83,6 +83,7 @@ Running Minecraft with shaders significantly increases energy consumption and po
 - **Time**: Minimal impact, with only a 0.23% increase in mean execution time and a 0.30% increase in median time when using shaders. The p-value suggests a statistically significant difference, but the effect size is negligible.
 - **Energy**: Shaders caused a 41.08% increase in mean energy consumption and a 43.95% increase in median energy consumption, indicating a substantial rise in power demand.
 - **Power**: The mean power usage rose by 40.76%, and the median power usage increases by 43.52%, reinforcing the conclusion that shaders place a significantly higher load on the system.
+- **GPU Temperature**: The average GPU temperature rose by approximately 4-5%, confirming that shaders increase the thermal load, although the system’s cooling mechanism appears to handle the added heat efficiently.
 
 While shaders have little effect on performance, they drastically increase resource consumption. The extremely low t-test p-values across all metrics confirm that these differences are statistically significant, making shaders costly in terms of power and energy efficiency.
 

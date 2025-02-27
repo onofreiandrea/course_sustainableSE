@@ -1,6 +1,6 @@
 | Author | Title | Image | Date | Summary |
 |--------|-------|-------|------|---------|
-| Andrea,Ayush Kuruvilla,Sahar Marossi,Yulin Chen | **Minecraft Energy Consumption Comparison with and without Shaders** | ![Cover](../img/p1_measuring_software/gX_template/cover.png) | 15/02/2025 | This article presents a roadmap on how to properly set up a scientific methodology to measure energy consumption in Minecraft with and without shaders. We outline unbiased energy measurement strategies, discuss methodology and replication, and analyze results to draw meaningful conclusions about energy efficiency. |
+| Andrea,Ayush Kuruvilla,Sahar Marossi,Yulin Chen | **Minecraft Energy Consumption Comparison with and without Shaders** | ![Cover](../img/p1_measuring_software/gX_template/cover.png) | 28/02/2025 | This article presents a roadmap on how to properly set up a scientific methodology to measure energy consumption in Minecraft with and without shaders. We outline unbiased energy measurement strategies, discuss methodology and replication, and analyze results to draw meaningful conclusions about energy efficiency. |
 
 
 

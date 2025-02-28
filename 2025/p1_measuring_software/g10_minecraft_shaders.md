@@ -65,7 +65,7 @@ To replicate the experiment, the code for measuring energy consumption in Minecr
 We will compare the power consumption values collected from running Minecraft with and without shaders. Data will be presented in tabular and graphical formats to highlight differences in energy usage.
 ### Results averaged over 30 runs
 |                    | Shaders Disabled  | Shaders Enabled  | Relative difference (mean) | t-test p-value |
-|:-------------------|:-----------------:|:----------------:|:--------------------------:|:--------------:|
+|--------------------|-------------------|------------------|----------------------------|----------------|
 | Execution Time (s) |      65.336       |      65.488      |           +0.23%           |   1.538e-08    |
 | CPU Energy (J)     |      533.224      |     752.289      |          +41.08%           |   3.583e-26    |
 | CPU Power (W)      |       8.161       |      11.487      |          +40.76%           |   3.217e-26    |
@@ -73,7 +73,7 @@ We will compare the power consumption values collected from running Minecraft wi
 
 ### Results from median of 30 runs
 |                    | Shaders Disabled | Shaders Enabled | Relative difference (mean) | t-test p-value |
-|:-------------------|:----------------:|:---------------:|:--------------------------:|:--------------:|
+|--------------------|------------------|-----------------|----------------------------|----------------|
 | Execution Time (s) |      65.264      |     65.463      |           +0.30%           |   1.538e-08    |
 | CPU Energy (J)     |     515.039      |     741.409     |          +43.95%           |   3.583e-26    |
 | CPU Power (W)      |      7.881       |     11.310      |          +43.52%           |   3.217e-26    |

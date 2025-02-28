@@ -90,12 +90,12 @@ While shaders have little effect on performance, they drastically increase resou
 |------------|--------------|
 | ![Shader Runs](../img/p1_measuring_software/gX_template/gpu_1.png) |![No Shader Runs](../img/p1_measuring_software/gX_template/gpu_2.png)
 
-**First Graph: Shader Runs**
+**GPU Temperature: Shader Runs**
 - The GPU exhibits noticeable fluctuations, suggesting that shader processing introduces varying workloads.
 - The periodic variations might indicate a pattern in shader execution, possibly linked to frame rendering or computational cycles.
 - The consistent oscillations suggest that the cooling system is effectively regulating temperature without excessive spikes.
 
-**Second Graph: No Shader Runs**
+**GPU Temperature: No Shader Runs**
 - The GPU operates in a more stable manner with fewer fluctuations.
 - Occasional small variations might be attributed to background tasks or minor system adjustments.
 - The overall steadiness suggests a more predictable workload when shaders are not running.
